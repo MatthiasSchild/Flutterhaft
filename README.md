@@ -1,2 +1,3 @@
 # Flutterhaft
-A collection of some dart code to reuse
+
+A collection of some dart and flutter code to reuse
